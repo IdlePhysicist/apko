@@ -3,8 +3,8 @@ module chainguard.dev/apko
 go 1.24.6
 
 require (
-	chainguard.dev/sdk v0.1.44
-	github.com/chainguard-dev/clog v1.7.0
+	chainguard.dev/sdk v0.1.45
+	github.com/chainguard-dev/clog v1.8.0
 	github.com/charmbracelet/log v0.4.2
 	github.com/go-git/go-git/v5 v5.16.4
 	github.com/google/go-cmp v0.7.0
@@ -22,17 +22,17 @@ require (
 	github.com/tmc/dot v0.2.0
 	github.com/u-root/u-root v0.15.0
 	go.lsp.dev/uri v0.3.0
-	go.opentelemetry.io/otel v1.38.0
-	go.opentelemetry.io/otel/trace v1.38.0
+	go.opentelemetry.io/otel v1.39.0
+	go.opentelemetry.io/otel/trace v1.39.0
 	go.step.sm/crypto v0.75.0
-	golang.org/x/oauth2 v0.33.0
-	golang.org/x/sync v0.18.0
-	golang.org/x/sys v0.38.0
+	golang.org/x/oauth2 v0.34.0
+	golang.org/x/sync v0.19.0
+	golang.org/x/sys v0.39.0
 	golang.org/x/time v0.14.0
 	google.golang.org/api v0.257.0
 	gopkg.in/ini.v1 v1.67.0
 	gopkg.in/yaml.v3 v3.0.1
-	k8s.io/apimachinery v0.34.2
+	k8s.io/apimachinery v0.34.3
 	sigs.k8s.io/release-utils v0.12.2
 )
 
@@ -122,7 +122,7 @@ require (
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.63.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.63.0 // indirect
-	go.opentelemetry.io/otel/metric v1.38.0 // indirect
+	go.opentelemetry.io/otel/metric v1.39.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
 	golang.org/x/crypto v0.45.0 // indirect
 	golang.org/x/exp v0.0.0-20250620022241-b7579e27df2b // indirect
